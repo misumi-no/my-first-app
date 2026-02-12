@@ -1,5 +1,3 @@
-.coderabbit.yaml
-# CodeRabbit Configuration
 language: "ja-JP"
 reviews:
-  profile: "chill" # 少しフランクな感じ（お好みで "professional" に変更可）
+  profile: "chill"
