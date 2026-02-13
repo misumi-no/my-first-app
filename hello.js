@@ -1,6 +1,9 @@
-var x = 10
-var y = 20
-function add(a,b){
-return a+b
+// 変なコメント
+var a = 10; // 変数名がわかりにくい！
+var b = 20;
+
+function tasu(x, y) {
+return x + y; // インデントがぐちゃぐちゃ
 }
-console.log(add(x,y))
+
+console.log(tasu(a, b));
